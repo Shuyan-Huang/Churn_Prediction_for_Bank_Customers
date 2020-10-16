@@ -1,6 +1,6 @@
 # Churn Prediction for Bank Customers
 
-### Churn Prediction for Bank Customers - Python, sklearn
+#### Tags: Python, sklearn, logistic regression, KNN, random forest
 
 - Developed algorithms to predict churn probability for bank customers, based on labeled data via Python programming
 - Proprocessed data by cleaning, categorical feature transformation and standardization, etc.
