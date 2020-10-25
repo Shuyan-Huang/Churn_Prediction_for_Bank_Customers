@@ -8,4 +8,4 @@
 - Evaluated model performance via cross-valication and achieved accuracy of 76.8%
 
 **Note**     
-If the notebook does not show up, please go to [nbviewer](https://nbviewer.jupyter.org/) and paste the link there: https://github.com/Shuyan-Huang/Churn_Prediction_for_Bank_Customers/blob/main/Churn%20Prediction%20for%20Bank%20Customers.ipynb 
+If the notebook does not render appropriately, please click here [Churn_Prediction_for_Bank_Customers](https://nbviewer.jupyter.org/github/Shuyan-Huang/Churn_Prediction_for_Bank_Customers/blob/main/Churn%20Prediction%20for%20Bank%20Customers.ipynb)
